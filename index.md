@@ -1,8 +1,7 @@
 # DSC180A-Methodology-5
 
 ##### Serena Xie (scxie@ucsd.edu)
-
-##### Section B07 Nemu and Abed
+##### **Section B07** Nemu and Abed
 ---
 
 1. **What is the most interesting topic covered in your domain this quarter?**
