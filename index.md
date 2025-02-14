@@ -1,4 +1,4 @@
-# DSC180A-Methodology-5
+# DSC180A-Capstone
 ##### Serena Xie (scxie@ucsd.edu)
 ##### **Section B07** Nemu and Abed
 ---
